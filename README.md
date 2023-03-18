@@ -21,3 +21,6 @@ I'm a 17 y/o self-taught developer focused on back-end and game development!
 Currently I do not have an email for public use! So for the time being you can always contact me on Discord. 
 
 - (`azzy#1824`, id: `717111589374918756`)
+
+
+*thanks koji for the inspiration for parts of this! :D*
